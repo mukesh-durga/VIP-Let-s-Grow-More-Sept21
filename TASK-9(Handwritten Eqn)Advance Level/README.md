@@ -1,1 +1,3 @@
-THE DATASETS UPLOADED ARE LARGER THAN 25MB and HENCE ARE CONVERTED INTO .rar FORMAT. Please extract them in the appropriate way for their usage.
+The TRAIN DATASET UPLOADED is LARGER THAN 25MB and HENCE is CONVERTED INTO .rar FORMAT. Please extract it in the appropriate way for its usage.
+
+Dataset Link for Images: https://www.kaggle.com/xainano/handwrittenmathsymbols
